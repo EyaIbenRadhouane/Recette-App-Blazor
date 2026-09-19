@@ -146,18 +146,18 @@ La sécurité repose notamment sur :
 
 ---
 
-## ⚙️ Fonctionnalités principales
+##  Fonctionnalités principales
 
-- 🔐 Authentification
-- 👥 Gestion des utilisateurs
-- 👨‍🍳 Gestion des chefs
-- 🥕 CRUD des ingrédients
-- 🍲 CRUD des recettes
-- 🔗 Association recettes / ingrédients
-- 🖼️ Upload des images
-- 🔎 Recherche et filtrage
-- 📊 Dashboards statistiques
-- 🔒 Gestion des rôles et autorisations
+-  Authentification
+-  Gestion des utilisateurs
+-  Gestion des chefs
+-  CRUD des ingrédients
+-  CRUD des recettes
+-  Association recettes / ingrédients
+-  Upload des images
+-  Recherche et filtrage
+-  Dashboards statistiques
+-  Gestion des rôles et autorisations
 
 ---
 
